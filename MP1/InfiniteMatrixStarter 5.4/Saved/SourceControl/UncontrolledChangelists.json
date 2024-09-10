@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Healthbar.uasset",
+				"E:/apps/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/flash.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/Health_pack.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/projectile.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/GetHit.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/blood.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/BloodOverlay.uasset",
+				"E:/CS415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/GetHealthPack.uasset"
+			]
+		}
+	]
+}
